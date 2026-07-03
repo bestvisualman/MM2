@@ -1,6 +1,3 @@
--- MM2 Xmas Hub AutoFarm
--- Меню стилизовано под скриншот
-
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
