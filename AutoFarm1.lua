@@ -1,6 +1,4 @@
 -- AutoFarm v1 mm2 by meentoz (Summer Edition)
--- Переделано: летняя тема, пляжные предметы и солнечное настроение
--- Фикс для телефона (только 3 кнопки)
 
 local ScreenGui = Instance.new("ScreenGui")
 local player = game:GetService("Players").LocalPlayer
